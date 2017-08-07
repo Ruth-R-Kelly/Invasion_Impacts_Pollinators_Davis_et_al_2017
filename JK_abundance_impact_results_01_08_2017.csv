@@ -1,0 +1,5 @@
+"","Species","Coefficient","Confint_L","Confint_U","SE","Pvalue","Family","modelName"
+"Species_controlJK","JK",-0.338410244012203,-0.88288823891743,0.206067750893024,0.278,0.22,"Negative binomial","Total pollinator abundance"
+"Species_controlJK1","JK",0.751761639756879,0.144388400587761,1.359134878926,0.31,0.015,"Zero inflated poisson","Bumblebee abundance"
+"Species_controlJK2","JK",-0.399830873024341,-0.947699605622823,0.14803785957414,0.28,0.15,"Negative binomial","Hoverfly abundance"
+"Species_controlJK3","JK",0.850230817213219,-1.04472116195964,2.74518279638608,0.947,0.16,"Zero inflated negative binomial","Honey bee abundance"

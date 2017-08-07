@@ -1,0 +1,33 @@
+Site,Species,Species_control,Session,River,Site_ID,Date_of_Trap,Inv_status,IAS_%_Cover,Open_Inf,SR_flowering_per_10m,Unique_currently_flowering_100m,B_lucorum_agg,B_pratorum,B_pascuorum,B_hortorum,Sphecodes_spp,H_rubicudus,Lasioglossum_spp,Andrena_spp,Andrena_clarkella,Andrena_wilkella,Hylaeus_spp,Osmia_spp,Apis_mellifera,Rhingia_campestris,Helophilus_pendulus,Helophilus_hybridus,Helophilus_trivittatus,Melanostoma_scalare,Melanostoma_mellinum,Mallota_fuciformis,Eristalis_tenax,Eristalis_abusivus,Eristalis_pertinax,Eristalis_arbustorum,Eristalis_interruptus,Eristalis_horticola,Eristalis_intricarius,Chrysogaster_cemiteriorum,Meliscaeva_auricollis,Platycheirus_albimanus,Platycheirus_splendidus,Platycheirus_granditarsus,Platycheirus_scutatus,Platycheirus_podagratus,Platycheirus_tarsalis,Syrphus_ribesii,Syrphus_vitripennis,Neoascia_podagrica,Episyrphus_balteatus,Sericomyia_lappona,Sericomyia_silentis,Eupeodes_corollae,Eupeodes_latifasciatus,Eupeodes_luniger,Eupeodes_nitens,Myathropa_florea,Pipiza_fenestrata,Chalcosyrphus_nemorum,Baccha_elongata,Xylota_segnis
+1Burnfoot,JK,JK,A,Roe,1Burnfoot,21/08/2012,Invaded,63.5,35,4.1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+1Burnfoot,JK,JK,B,Roe,1Burnfoot,12/09/2012,Invaded,62.5,420,3.9,2,3,0,0,0,0,0,0,0,0,0,0,0,0,2,22,2,0,2,4,0,2,0,3,14,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1Dixon,JK,Control,A,Lagan,1Dixon,23/08/2012,Native,0,4,2.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,31,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1Dixon,JK,Control,B,Lagan,1Dixon,14/09/2012,Native,0,0,3.4,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,171,1,0,10,5,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,5,2,0,1,0,1,0,0,0,0,0,0,0
+1DSCamp,JK,Control,A,Faughan,1DSCampsie,21/08/2012,Native,0,21,2.2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,9,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1DSCamp,JK,Control,B,Faughan,1DSCampsie,12/09/2012,Native,0,0,2.3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,36,7,0,4,7,0,0,1,1,11,0,0,0,0,0,2,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+1Milltown,JK,JK,A,Mon Blackwater,1Milltown,23/08/2012,Invaded,51,41,4.2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,1,0,3,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1Milltown,JK,JK,B,Mon Blackwater,1Milltown,14/09/2012,Invaded,48,257,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,167,5,0,0,0,0,13,0,4,33,7,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0
+2Carrick,JK,Control,A,Roe,2Carrick,21/08/2012,Native,4,0,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,33,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+2Carrick,JK,Control,B,Roe,2Carrick,12/09/2012,Native,6,2,3.4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,7,2,0,4,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2Garlic,JK,Control,A,Mon Blackwater,2Garlic,23/08/2012,Native,0,0,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2Garlic,JK,Control,B,Mon Blackwater,2Garlic,14/09/2012,Native,0,0,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2Lock,JK,JK,A,Lagan,2Lock,23/08/2012,Invaded,38,27,5.9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2Lock,JK,JK,B,Lagan,2Lock,14/09/2012,Invaded,36.5,201,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2USCamp,JK,Control,A,Faughan,2USCampsie,21/08/2012,Native,0,28,2.7,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,47,10,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,0,0,0,0,0,0,0,0,0
+2USCamp,JK,Control,B,Faughan,2USCampsie,12/09/2012,Native,1,32,3.3,3,0,1,3,0,0,0,0,0,0,0,0,0,0,2,47,2,0,9,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+3Cattle,JK,Control,A,Mon Blackwater,3Cattle,23/08/2012,Native,0,3,3.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,36,1,0,0,0,0,0,0,0,0,0,0,0
+3Cattle,JK,Control,B,Mon Blackwater,3Cattle,14/09/2012,Native,0,7,3.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,162,0,0,6,16,0,0,0,5,1,0,0,0,0,0,11,0,0,0,0,0,5,0,29,4,0,1,0,0,0,0,0,0,0,0,0
+3Dogleap,JK,JK,A,Roe,3Dogleap,21/08/2012,Invaded,37.5,3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3Dogleap,JK,JK,B,Roe,3Dogleap,12/09/2012,Invaded,30.5,111,4.2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,25,0,0,12,2,0,0,0,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+3Mobuoy,JK,JK,A,Faughan,3Mobuoy,21/08/2012,Invaded,42,218,3.8,2,7,0,1,0,0,0,2,2,0,0,0,0,1,0,13,11,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3Mobuoy,JK,JK,B,Faughan,3Mobuoy,12/09/2012,Invaded,43,352,3.9,2,0,1,0,0,0,0,0,0,0,0,0,0,5,0,15,8,0,0,0,0,6,0,15,5,0,0,1,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4O'Cahans,JK,Control,A,Roe,4O'Cahans,21/08/2012,Native,0,4,4.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+4O'Cahans,JK,Control,B,Roe,4O'Cahans,12/09/2012,Native,0,0,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4Sand&Grav,JK,JK,A,Faughan,4Sand&Gravel,21/08/2012,Invaded,55.5,92,4.8,3,3,0,0,0,0,0,0,1,0,0,0,0,1,0,5,8,0,0,0,0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+4Sand&Grav,JK,JK,B,Faughan,4Sand&Gravel,12/09/2012,Invaded,50,175,4.2,4,5,1,1,0,0,0,0,0,0,0,0,1,0,0,24,20,1,0,3,0,3,0,5,7,0,0,1,1,0,0,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+4Scotstown,JK,JK,A,Mon Blackwater,4Scotstown,23/08/2012,Invaded,53.5,60,4.3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,25,2,0,4,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0
+4Scotstown,JK,JK,B,Mon Blackwater,4Scotstown,14/09/2012,Invaded,41,184,4.7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,4,204,10,0,2,8,0,5,0,31,69,6,1,1,2,0,4,0,0,0,0,0,2,0,10,2,0,0,0,0,0,0,0,0,0,0,0
+5DSSheep,JK,JK,A,Faughan,5DSSheep,21/08/2012,Invaded,30,48,3.6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,6,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5DSSheep,JK,JK,B,Faughan,5DSSheep,12/09/2012,Invaded,33.5,88,3.5,3,0,2,2,0,0,0,0,0,0,0,0,0,0,0,21,4,0,0,3,0,3,0,3,2,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+6USSheep,JK,Control,A,Faughan,6USSheep,21/08/2012,Native,0,51,4.2,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,34,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6USSheep,JK,Control,B,Faughan,6USSheep,12/09/2012,Native,0,4,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,110,3,0,11,16,0,3,0,17,3,0,0,0,0,1,13,0,0,0,0,0,3,1,0,4,0,0,2,0,0,0,0,0,0,0,0

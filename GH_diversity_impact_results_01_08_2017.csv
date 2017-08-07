@@ -1,0 +1,5 @@
+"","Species","Coefficient","Confint_L","Confint_U","SE","Pvalue","Family","modelName"
+"Species_controlGH","GH",0.066805852365742,-0.191086208720038,0.324697913451522,0.1316,"0.612","Gaussian","Total pollinator diversity"
+"Species_controlGH1","GH",0.184085331679276,-0.295361058218912,0.663531721577464,0.245,"0.450","Gamma","Bumblebee diversity"
+"Species_controlGH2","GH",-0.0848746009272816,-0.278191728614421,0.108442526759857,0.0986,"0.390","Gamma","Solitary bee diversity"
+"Species_controlGH3","GH",0.0411308198835206,-0.206177435685743,0.288439075452785,0.126,"0.740","Gaussian","Hoverfly diversity"
