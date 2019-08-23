@@ -1,5 +1,7 @@
 ### Invasion_Impacts_Pollinators_Davis_et_al_2017
-Code and datafiles for analysis contained in "Contrasting impacts of high priority invasive species on pollinator communities", manuscript currently in review.  All code by Ruth Kelly, data collected by Emily Davis. Study design by Emily Davis, Jane Stout and Christine A Maggs. 
+Code and datafiles for analysis contained in "Contrasting impacts of highly invasive plant species on flower-visiting insect communities" by Emily Davis, Ruth Kelly, Christine A. Maggs and Jane Stout. Published in 2018 in the journal Biodiversity and Conservation, Biodiversity and conservation, 27(8), 2069-2085. 
+
+All code by Ruth Kelly, data collected by Emily Davis. Study design by Jane Stout, Emily Davis and Christine A. Maggs 
 
 These files contain the code and datafiles for a manuscript about the impacts of three riparian invasive species, Heracleum mantegazzianum (Giant Hogweed), Impatiens glandulifera (Himalayan Balsam) and Fallopia Japonica on pollinating insects taxa (honey bees, hoverflies, bumblebees and solitary bees in the Republic of Ireland and Northern Ireland (UK)).  This paper is currently in review and I will add a link to the manuscript which contains details of the sample sites, methodologies and protocols here as soon as it is published.  In the meantime if you have any questions about the code, or interest in using our datasets on pollinating species associated with these plant species then please contact me at : kellyr44@tcd.ie.  Code is provided for replicability rather than teaching purposes and is therefore not well annotated (i.e. I'm assuming the reader already understands R), but I am happy to provide further explanation on request.  
 
